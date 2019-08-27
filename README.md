@@ -1,5 +1,5 @@
 # json-splitter
-Split Huge JSON File Into Smalled JSON Files
+Split Huge JSON File Into Small JSON Files
 
 ## Installation
 `npm i json-splitter` / `yarn add json-splitter`
