@@ -1,7 +1,7 @@
 {
   "name": "json-splitter",
-  "version": "1.0.0",
-  "description": "Split Huge JSON File Into Smalled JSON Files",
+  "version": "1.0.1",
+  "description": "Split Huge JSON File Into Small JSON Files",
   "main": "index.js",
   "license": "MIT",
   "repository": {
